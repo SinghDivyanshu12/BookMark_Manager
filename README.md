@@ -49,4 +49,18 @@ Time spent: Approximately 1 hour 45 minutes
 ### Installation
 
 1. Clone the repository:
-```bash
+git clone https://github.com/SinghDivyanshu12/bookmark-manager.git
+
+2. Navigate to projectfolder
+ cd bookmark-manager
+
+4. Install dependencies
+npm install
+
+5. Run the deployment server
+ npm run build
+
+Live Project Link
+https://dainty-queijadas-9e2a49.netlify.app/
+
+
