@@ -10,7 +10,6 @@ A full-stack bookmark management application with REST API backend and React fro
 - Tag bookmarks for organization
 - Filter bookmarks by tags
 - Search bookmarks by title or URL
-- Real-time form validation
 - Responsive design
 
 ## Tech Stack
