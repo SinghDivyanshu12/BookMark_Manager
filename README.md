@@ -15,9 +15,7 @@ A full-stack bookmark management application with REST API backend and React fro
 
 ## Tech Stack
 
-- **Backend**: Node.js, Express
-- **Frontend**: React, JavaScript
-- **Data Storage**: JSON file-based storage
+React.js, JavaScript
 - **Additional Libraries**: 
   - UUID for unique IDs
   - CORS for cross-origin requests
